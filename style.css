@@ -412,6 +412,14 @@ h3{
         font-size: 24px;
     }
 }
+/*----------------------------- contact us -----------------------------*/
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+}
+.location iframe{
+    width: 100%;
+}
 
-
-/* (2) 00:00:00 */
+/* (2) 00:03:25 */
