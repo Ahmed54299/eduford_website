@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'info@testwebsite.com'; //المرسل له
+$email_from = 'info@testwebsite.com'; // اسم المرسل 
 
 $email_subject = "New Form Submission"; // عنوان النص
 
